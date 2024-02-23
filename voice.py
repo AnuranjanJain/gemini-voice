@@ -6,7 +6,7 @@ import speech_recognition as sr
 
 #import secrets_file
 
-api_key=
+api_key=(input("Enter the API Key : "))
 gemini_api_secret_name =api_key
 genai.configure(api_key=gemini_api_secret_name)
 
