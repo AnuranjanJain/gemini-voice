@@ -1,5 +1,6 @@
 # gemini-voice
 Prerequisites : google-generativeai pyttsx3 SpeechRecognition pyaudio
+
 use : pip install google-generativeai pyttsx3 SpeechRecognition pyaudio
 
 How to Use ? 
