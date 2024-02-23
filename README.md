@@ -1,4 +1,5 @@
 Prerequisites : google-generativeai pyttsx3 SpeechRecognition pyaudio
+
 Install Them with this command :  pip install google-generativeai pyttsx3 SpeechRecognition pyaudio
 
 How to Use ? 
